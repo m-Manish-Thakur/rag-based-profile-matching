@@ -1,0 +1,49 @@
+Yuki Nguyen
+Email: yuki.nguyen17@gmail.com | Phone: (517) 772-7171
+
+SUMMARY
+Frontend Engineer with 15+ years of experience in software development. Skilled in Angular, Problem Solving, Figma, Accessibility, React. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+Frontend Engineer | DataPulse | 2022 - 2025
+  - Implemented comprehensive testing strategy reducing UI bugs by 31%
+  - Developed design system components used across 20 product teams
+  - Built responsive web application serving 5K+ daily active users
+Web Developer | Lyft | 2020 - 2022
+  - Built animation-rich landing page increasing engagement by 45%
+  - Built responsive web application serving 15K+ daily active users
+  - Led migration from jQuery to React modernizing codebase
+UI Engineer | ByteForge | 2018 - 2020
+  - Optimized bundle size improving page load time by 51%
+  - Implemented accessibility improvements achieving WCAG 2.1 AA compliance
+  - Built animation-rich landing page increasing engagement by 68%
+Senior Frontend Developer | Airbnb | 2016 - 2018
+  - Built real-time collaborative features using WebSockets
+  - Built responsive web application serving 17K+ daily active users
+  - Built animation-rich landing page increasing engagement by 25%
+UI Engineer | DevBridge | 2014 - 2016
+  - Implemented comprehensive testing strategy reducing UI bugs by 43%
+  - Implemented component library reducing UI development time by 59%
+  - Led migration from jQuery to React modernizing codebase
+React Developer | DataPulse | 2013 - 2014
+  - Implemented accessibility improvements achieving WCAG 2.1 AA compliance
+  - Optimized bundle size improving page load time by 18%
+  - Led migration from jQuery to React modernizing codebase
+UI Engineer | Uber | 2010 - 2013
+  - Implemented component library reducing UI development time by 32%
+  - Built responsive web application serving 16K+ daily active users
+  - Built real-time collaborative features using WebSockets
+
+EDUCATION
+Bachelor of Arts in Data Science
+Duke University | 2007 - 2010
+
+SKILLS
+Angular, Problem Solving, Figma, Accessibility, React, Tailwind CSS, Communication, Node.js, JavaScript, HTML, Responsive Design, Agile, Vue.js
+
+PROJECTS
+Portfolio Website
+  - Animation-rich portfolio built with React and Framer Motion
+
+CERTIFICATIONS
+Meta Front-End Developer Certificate

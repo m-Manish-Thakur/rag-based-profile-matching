@@ -1,0 +1,29 @@
+Jessica Singh
+Email: jessica.singh31@protonmail.com | Phone: (785) 567-5847
+
+SUMMARY
+Platform Engineer with 5+ years of experience in software development. Skilled in Communication, Git, Ansible, AWS, Networking. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+Senior DevOps Engineer | Stripe | 2022 - 2025
+  - Managed Kubernetes clusters with 2+ microservices across 2 environments
+  - Implemented security scanning in CI/CD pipeline catching 5+ vulnerabilities
+  - Implemented centralized logging and monitoring reducing incident detection time by 56%
+Senior DevOps Engineer | Databricks | 2020 - 2022
+  - Reduced mean time to recovery (MTTR) from hours to 79 minutes
+  - Managed cloud spending optimization saving $$9K annually
+  - Designed multi-region deployment achieving 76.9% uptime SLA
+
+EDUCATION
+Bachelor of Arts in Electrical Engineering
+Caltech | 2014 - 2018
+
+SKILLS
+Communication, Git, Ansible, AWS, Networking, Azure, Security, Grafana
+
+PROJECTS
+Monitoring Stack
+  - Complete monitoring solution with Prometheus, Grafana, and alerting
+
+CERTIFICATIONS
+Certified Kubernetes Administrator

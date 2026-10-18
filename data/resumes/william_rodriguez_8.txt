@@ -1,0 +1,41 @@
+William Rodriguez
+Email: william.rodriguez96@gmail.com | Phone: (558) 429-2124
+
+SUMMARY
+AI Engineer with 15+ years of experience in software development. Skilled in Problem Solving, Python, Computer Vision, NLP, Agile. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+ML Platform Engineer | Lyft | 2022 - 2025
+  - Built automated hyperparameter tuning saving 10 hours per model
+  - Built MLOps pipeline for automated model retraining and monitoring
+  - Developed computer vision model achieving 63% accuracy on production data
+Senior ML Engineer | Apple | 2018 - 2022
+  - Built automated hyperparameter tuning saving 10 hours per model
+  - Implemented real-time inference API reducing latency from 19ms to 20ms
+  - Built MLOps pipeline for automated model retraining and monitoring
+Machine Learning Engineer | DataPulse | 2015 - 2018
+  - Created model monitoring system detecting data drift reducing incidents by 28%
+  - Designed and deployed ML models serving 14K+ predictions/second
+  - Optimized model architecture reducing inference cost by 34%
+Senior ML Engineer | ScaleOps | 2011 - 2015
+  - Built LLM-powered application processing 15K documents/day
+  - Implemented feature store used by 19 ML teams across the organization
+  - Developed distributed training pipeline reducing training time by 11x
+ML Platform Engineer | DevBridge | 2010 - 2011
+  - Implemented real-time inference API reducing latency from 11ms to 18ms
+  - Developed distributed training pipeline reducing training time by 16x
+  - Optimized model architecture reducing inference cost by 77%
+
+EDUCATION
+Master of Science in Software Engineering
+Duke University | 2005 - 2008
+
+SKILLS
+Problem Solving, Python, Computer Vision, NLP, Agile, Model Deployment, PyTorch, Communication
+
+PROJECTS
+Document Processing Pipeline
+  - Automated document extraction and classification system
+
+CERTIFICATIONS
+AWS Machine Learning Specialty

@@ -1,0 +1,33 @@
+Michael Miller
+Email: michael.miller60@protonmail.com | Phone: (652) 891-4501
+
+SUMMARY
+Full Stack Developer with 10+ years of experience in software development. Skilled in Problem Solving, Team Leadership, Agile, Node.js, C++. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+Lead Software Engineer | Databricks | 2021 - 2025
+  - Implemented comprehensive test suite increasing code coverage from 33% to 95%
+  - Optimized database queries improving response times by 28%
+  - Designed and shipped customer-facing features used by 14K+ users
+Lead Software Engineer | ScaleOps | 2019 - 2021
+  - Optimized database queries improving response times by 73%
+  - Designed and implemented RESTful APIs serving 5K+ daily active users
+  - Led migration from on-premises servers to AWS reducing infrastructure costs by 55%
+Software Developer | DataPulse | 2015 - 2019
+  - Implemented comprehensive test suite increasing code coverage from 75% to 95%
+  - Built internal developer tools saving team 15 hours/week
+  - Optimized database queries improving response times by 50%
+
+EDUCATION
+Master of Science in Data Science
+MIT | 2011 - 2015
+
+SKILLS
+Problem Solving, Team Leadership, Agile, Node.js, C++, JavaScript, REST APIs, Redis, Git, Kubernetes, PostgreSQL, Go, TypeScript, AWS, Microservices
+
+PROJECTS
+Task Management API
+  - RESTful API with authentication, rate limiting, and comprehensive documentation
+
+CERTIFICATIONS
+AWS Certified Developer

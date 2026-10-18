@@ -1,0 +1,33 @@
+Ingrid Horvat
+Email: ingrid.horvat95@gmail.com | Phone: (611) 649-4839
+
+SUMMARY
+Analytics Engineer with 10+ years of experience in software development. Skilled in Python, Power BI, Problem Solving, R, Pandas. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+Data Analyst | DataFlow Inc | 2021 - 2025
+  - Designed data models supporting self-service analytics for 14 departments
+  - Created metric definitions and data governance framework
+  - Built ETL pipelines consolidating data from 13 source systems
+Senior Data Analyst | Salesforce | 2017 - 2021
+  - Conducted cohort analysis improving marketing campaign ROI by 67%
+  - Identified $$14M cost-saving opportunity through customer segmentation analysis
+  - Performed funnel analysis identifying conversion bottleneck improving sign-ups by 46%
+Senior Data Analyst | TechCorp | 2015 - 2017
+  - Developed SQL pipelines processing 3M+ records daily
+  - Performed funnel analysis identifying conversion bottleneck improving sign-ups by 49%
+  - Built ETL pipelines consolidating data from 13 source systems
+
+EDUCATION
+Master of Science in Mathematics
+University of Texas at Austin | 2011 - 2014
+
+SKILLS
+Python, Power BI, Problem Solving, R, Pandas, Looker, ETL, Git, dbt, Presentation Skills, Excel
+
+PROJECTS
+Sales Dashboard
+  - Interactive Power BI dashboard tracking KPIs across regions
+
+CERTIFICATIONS
+Microsoft Power BI Data Analyst

@@ -1,0 +1,41 @@
+Aisha Okafor
+Email: aisha.okafor86@protonmail.com | Phone: (938) 252-5712
+
+SUMMARY
+Research Data Scientist with 12+ years of experience in software development. Skilled in Computer Vision, Machine Learning, Airflow, Spark, NumPy. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+Data Scientist | Snowflake | 2022 - 2025
+  - Conducted deep-dive analysis on customer segments identifying $$12M in opportunities
+  - Developed feature engineering pipeline reducing model training time by 33%
+  - Developed NLP pipeline for automated ticket classification with 66% accuracy
+Senior Data Scientist | Microsoft | 2021 - 2022
+  - Developed recommendation system increasing user engagement by 68%
+  - Performed statistical analysis supporting $15M+ strategic decisions
+  - Created automated reporting dashboards reducing manual reporting by 62%
+Lead Data Scientist | Netflix | 2018 - 2021
+  - Built predictive models improving customer churn prediction accuracy by 21%
+  - Designed A/B testing framework for product decisions across 3 teams
+  - Performed statistical analysis supporting $15M+ strategic decisions
+Research Data Scientist | DevBridge | 2014 - 2018
+  - Built time-series forecasting models for demand planning with 29% accuracy
+  - Conducted deep-dive analysis on customer segments identifying $$12M in opportunities
+  - Created automated reporting dashboards reducing manual reporting by 51%
+Research Data Scientist | Oracle | 2013 - 2014
+  - Built predictive models improving customer churn prediction accuracy by 22%
+  - Created automated reporting dashboards reducing manual reporting by 41%
+  - Built time-series forecasting models for demand planning with 42% accuracy
+
+EDUCATION
+Bachelor of Arts in Statistics
+University of Toronto | 2010 - 2013
+
+SKILLS
+Computer Vision, Machine Learning, Airflow, Spark, NumPy, Deep Learning, Power BI, scikit-learn, Leadership, Docker, Hadoop, Problem Solving
+
+PROJECTS
+Automated Report Generator
+  - NLP-powered tool generating business insights from raw data
+
+CERTIFICATIONS
+Google Data Analytics Certificate

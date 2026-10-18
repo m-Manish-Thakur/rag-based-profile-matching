@@ -1,0 +1,25 @@
+Barbara Lopez
+Email: barbara.lopez83@yahoo.com | Phone: (472) 345-2169
+
+SUMMARY
+Web Developer with 1+ years of experience in software development. Skilled in Git, Agile, GraphQL, Responsive Design, Testing. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+Frontend Engineer | Netflix | 2024 - 2025
+  - Optimized bundle size improving page load time by 20%
+  - Built responsive web application serving 6K+ daily active users
+  - Built real-time collaborative features using WebSockets
+
+EDUCATION
+Master of Engineering in Computer Science
+Cornell University | 2020 - 2024
+
+SKILLS
+Git, Agile, GraphQL, Responsive Design, Testing, Vue.js, Figma, Communication, Next.js, Angular
+
+PROJECTS
+Real-Time Dashboard
+  - Interactive data visualization dashboard with live updates
+
+CERTIFICATIONS
+Google Mobile Web Specialist

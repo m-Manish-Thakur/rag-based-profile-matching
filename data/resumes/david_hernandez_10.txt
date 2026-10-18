@@ -1,0 +1,37 @@
+David Hernandez
+Email: david.hernandez91@yahoo.com | Phone: (480) 246-1893
+
+SUMMARY
+Analytics Engineer with 10+ years of experience in software development. Skilled in Presentation Skills, Power BI, BigQuery, Communication, Tableau. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+Reporting Analyst | Meta | 2024 - 2025
+  - Identified $$3M cost-saving opportunity through customer segmentation analysis
+  - Developed predictive models for inventory optimization reducing waste by 68%
+  - Conducted cohort analysis improving marketing campaign ROI by 43%
+Analytics Engineer | DevBridge | 2020 - 2024
+  - Conducted cohort analysis improving marketing campaign ROI by 22%
+  - Designed data models supporting self-service analytics for 20 departments
+  - Developed predictive models for inventory optimization reducing waste by 42%
+Data Analyst | Lyft | 2017 - 2020
+  - Automated weekly reporting saving 6 hours/week for the team
+  - Identified $$14M cost-saving opportunity through customer segmentation analysis
+  - Developed SQL pipelines processing 20M+ records daily
+Data Analyst | Salesforce | 2015 - 2017
+  - Conducted cohort analysis improving marketing campaign ROI by 44%
+  - Developed predictive models for inventory optimization reducing waste by 40%
+  - Performed funnel analysis identifying conversion bottleneck improving sign-ups by 29%
+
+EDUCATION
+Bachelor of Science in Software Engineering
+Columbia University | 2011 - 2014
+
+SKILLS
+Presentation Skills, Power BI, BigQuery, Communication, Tableau, SQL, R, Excel, Problem Solving, Pandas, Data Visualization, Excel
+
+PROJECTS
+Sales Dashboard
+  - Interactive Power BI dashboard tracking KPIs across regions
+
+CERTIFICATIONS
+Certified Analytics Professional

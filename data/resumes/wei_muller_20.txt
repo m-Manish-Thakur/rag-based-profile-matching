@@ -1,0 +1,25 @@
+Wei Muller
+Email: wei.muller98@outlook.com | Phone: (496) 535-2965
+
+SUMMARY
+AI Engineer with 1+ years of experience in software development. Skilled in Communication, CI/CD, scikit-learn, PyTorch, GCP. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+AI Engineer | IBM | 2024 - 2025
+  - Built MLOps pipeline for automated model retraining and monitoring
+  - Optimized model architecture reducing inference cost by 73%
+  - Designed and deployed ML models serving 12K+ predictions/second
+
+EDUCATION
+Master of Engineering in Software Engineering
+MIT | 2019 - 2023
+
+SKILLS
+Communication, CI/CD, scikit-learn, PyTorch, GCP, NumPy, Computer Vision, Pandas, Spark, AWS, Deep Learning, NLP, Problem Solving, Git, Python
+
+PROJECTS
+Anomaly Detection System
+  - Real-time anomaly detection for IoT sensor data using autoencoders
+
+CERTIFICATIONS
+Google Professional Machine Learning Engineer

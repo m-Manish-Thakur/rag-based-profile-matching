@@ -1,0 +1,24 @@
+JOB TITLE: Senior DevOps Engineer
+COMPANY: Palantir
+
+ABOUT THE ROLE
+We are looking for a talented Senior DevOps Engineer to join our growing team at Palantir.
+You will work on challenging problems and help build products used by millions.
+
+REQUIREMENTS
+- 5+ years of professional experience as a Senior DevOps Engineer or similar role
+- Strong proficiency in: AWS, Docker, Kubernetes, Terraform, CI/CD
+- Experience with: Python, Ansible, Monitoring, GCP
+- Excellent communication and teamwork skills
+- Bachelor's degree in Computer Science or related field
+
+NICE TO HAVE
+- Experience with: Python, Ansible, Monitoring
+- Contributions to open source projects
+- Experience in a startup or fast-paced environment
+
+WHAT WE OFFER
+- Competitive salary and equity
+- Health, dental, and vision insurance
+- Flexible work arrangements
+- Professional development budget

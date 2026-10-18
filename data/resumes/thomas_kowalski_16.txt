@@ -1,0 +1,33 @@
+Thomas Kowalski
+Email: thomas.kowalski96@outlook.com | Phone: (317) 679-2233
+
+SUMMARY
+Business Intelligence Analyst with 3+ years of experience in software development. Skilled in Excel, Business Acumen, Snowflake, Git, Airflow. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+Senior Data Analyst | ByteForge | 2024 - 2025
+  - Built executive dashboards in Tableau/Power BI used by 20+ stakeholders
+  - Created metric definitions and data governance framework
+  - Built ETL pipelines consolidating data from 10 source systems
+Senior Data Analyst | Amazon | 2023 - 2024
+  - Built executive dashboards in Tableau/Power BI used by 4+ stakeholders
+  - Conducted cohort analysis improving marketing campaign ROI by 32%
+  - Performed funnel analysis identifying conversion bottleneck improving sign-ups by 73%
+Reporting Analyst | NextGen Software | 2022 - 2023
+  - Developed predictive models for inventory optimization reducing waste by 77%
+  - Identified $$20M cost-saving opportunity through customer segmentation analysis
+  - Designed data models supporting self-service analytics for 9 departments
+
+EDUCATION
+Master of Engineering in Mathematics
+Texas A&M | 2016 - 2020
+
+SKILLS
+Excel, Business Acumen, Snowflake, Git, Airflow, Excel, Presentation Skills, SQL, NumPy, Communication, Python
+
+PROJECTS
+Data Quality Monitor
+  - Automated data quality checks and alerting system
+
+CERTIFICATIONS
+Certified Analytics Professional

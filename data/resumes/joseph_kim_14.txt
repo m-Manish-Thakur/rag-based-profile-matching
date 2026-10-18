@@ -1,0 +1,33 @@
+Joseph Kim
+Email: joseph.kim81@outlook.com | Phone: (432) 964-2480
+
+SUMMARY
+Senior ML Engineer with 7+ years of experience in software development. Skilled in Problem Solving, Spark, Leadership, TensorFlow, REST APIs. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+Deep Learning Engineer | NextGen Software | 2023 - 2025
+  - Built automated hyperparameter tuning saving 6 hours per model
+  - Developed computer vision model achieving 63% accuracy on production data
+  - Implemented feature store used by 20 ML teams across the organization
+Deep Learning Engineer | Uber | 2019 - 2023
+  - Implemented real-time inference API reducing latency from 15ms to 47ms
+  - Developed distributed training pipeline reducing training time by 1x
+  - Built LLM-powered application processing 10K documents/day
+AI Engineer | DataFlow Inc | 2018 - 2019
+  - Built automated hyperparameter tuning saving 9 hours per model
+  - Built LLM-powered application processing 10K documents/day
+  - Optimized model architecture reducing inference cost by 76%
+
+EDUCATION
+Bachelor of Arts in Electrical Engineering
+Stanford University | 2014 - 2017
+
+SKILLS
+Problem Solving, Spark, Leadership, TensorFlow, REST APIs, scikit-learn, Docker, Python, Machine Learning
+
+PROJECTS
+Anomaly Detection System
+  - Real-time anomaly detection for IoT sensor data using autoencoders
+
+CERTIFICATIONS
+TensorFlow Developer Certificate

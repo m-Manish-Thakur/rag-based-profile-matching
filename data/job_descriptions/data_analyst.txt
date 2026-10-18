@@ -1,0 +1,24 @@
+JOB TITLE: Data Analyst
+COMPANY: TechCorp
+
+ABOUT THE ROLE
+We are looking for a talented Data Analyst to join our growing team at TechCorp.
+You will work on challenging problems and help build products used by millions.
+
+REQUIREMENTS
+- 2+ years of professional experience as a Data Analyst or similar role
+- Strong proficiency in: SQL, Python, Excel, Tableau, Data Visualization
+- Experience with: Power BI, Statistics, A/B Testing, Airflow
+- Excellent communication and teamwork skills
+- Bachelor's degree in Computer Science or related field
+
+NICE TO HAVE
+- Experience with: Power BI, Statistics, A/B Testing
+- Contributions to open source projects
+- Experience in a startup or fast-paced environment
+
+WHAT WE OFFER
+- Competitive salary and equity
+- Health, dental, and vision insurance
+- Flexible work arrangements
+- Professional development budget

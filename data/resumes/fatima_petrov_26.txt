@@ -1,0 +1,45 @@
+Fatima Petrov
+Email: fatima.petrov12@outlook.com | Phone: (883) 555-2063
+
+SUMMARY
+Deep Learning Engineer with 10+ years of experience in software development. Skilled in Docker, scikit-learn, Leadership, Communication, Spark. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+AI Engineer | Airbnb | 2022 - 2025
+  - Built automated hyperparameter tuning saving 10 hours per model
+  - Built MLOps pipeline for automated model retraining and monitoring
+  - Implemented feature store used by 14 ML teams across the organization
+ML Platform Engineer | Apple | 2020 - 2022
+  - Developed distributed training pipeline reducing training time by 5x
+  - Built automated hyperparameter tuning saving 5 hours per model
+  - Created model monitoring system detecting data drift reducing incidents by 22%
+Deep Learning Engineer | Uber | 2019 - 2020
+  - Built LLM-powered application processing 11K documents/day
+  - Developed computer vision model achieving 51% accuracy on production data
+  - Implemented feature store used by 3 ML teams across the organization
+Deep Learning Engineer | NVIDIA | 2017 - 2019
+  - Developed computer vision model achieving 36% accuracy on production data
+  - Built LLM-powered application processing 19K documents/day
+  - Built MLOps pipeline for automated model retraining and monitoring
+Machine Learning Engineer | Netflix | 2016 - 2017
+  - Designed and deployed ML models serving 19K+ predictions/second
+  - Built LLM-powered application processing 20K documents/day
+  - Implemented real-time inference API reducing latency from 16ms to 52ms
+AI Engineer | Adobe | 2015 - 2016
+  - Optimized model architecture reducing inference cost by 22%
+  - Built LLM-powered application processing 6K documents/day
+  - Developed distributed training pipeline reducing training time by 14x
+
+EDUCATION
+Master of Science in Computer Science
+Caltech | 2010 - 2014
+
+SKILLS
+Docker, scikit-learn, Leadership, Communication, Spark, Problem Solving, AWS, Pandas, Computer Vision, TensorFlow, NLP, GCP
+
+PROJECTS
+Anomaly Detection System
+  - Real-time anomaly detection for IoT sensor data using autoencoders
+
+CERTIFICATIONS
+Google Professional Machine Learning Engineer

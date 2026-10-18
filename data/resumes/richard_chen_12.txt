@@ -1,0 +1,41 @@
+Richard Chen
+Email: richard.chen24@protonmail.com | Phone: (850) 703-2494
+
+SUMMARY
+Software Developer with 8+ years of experience in software development. Skilled in CI/CD, Git, Problem Solving, C++, TypeScript. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+Lead Software Engineer | CodeCraft | 2024 - 2025
+  - Implemented comprehensive test suite increasing code coverage from 61% to 95%
+  - Designed and implemented RESTful APIs serving 20K+ daily active users
+  - Led migration from on-premises servers to AWS reducing infrastructure costs by 21%
+Backend Software Engineer | Airbnb | 2022 - 2024
+  - Developed real-time data processing pipeline handling 4M events/day
+  - Optimized database queries improving response times by 45%
+  - Built internal developer tools saving team 6 hours/week
+Software Developer | NextGen Software | 2021 - 2022
+  - Refactored legacy monolith into microservices reducing latency by 30%
+  - Led migration from on-premises servers to AWS reducing infrastructure costs by 78%
+  - Designed and shipped customer-facing features used by 10K+ users
+Full Stack Developer | ByteForge | 2018 - 2021
+  - Optimized database queries improving response times by 33%
+  - Led migration from on-premises servers to AWS reducing infrastructure costs by 39%
+  - Designed and shipped customer-facing features used by 20K+ users
+Software Engineer | NVIDIA | 2017 - 2018
+  - Implemented comprehensive test suite increasing code coverage from 51% to 95%
+  - Mentored 10 junior developers through code reviews and pairing sessions
+  - Developed real-time data processing pipeline handling 5M events/day
+
+EDUCATION
+Bachelor of Science in Electrical Engineering
+University of Michigan | 2012 - 2016
+
+SKILLS
+CI/CD, Git, Problem Solving, C++, TypeScript, Node.js, Scrum, Team Leadership, GraphQL, REST APIs, AWS, Java, PostgreSQL
+
+PROJECTS
+Open Source CLI Tool
+  - A command-line tool for automating DevOps workflows, 500+ GitHub stars
+
+CERTIFICATIONS
+Certified Kubernetes Administrator

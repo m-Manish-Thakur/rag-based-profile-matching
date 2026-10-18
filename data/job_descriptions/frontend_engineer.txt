@@ -1,0 +1,24 @@
+JOB TITLE: Senior Frontend Engineer
+COMPANY: Oracle
+
+ABOUT THE ROLE
+We are looking for a talented Senior Frontend Engineer to join our growing team at Oracle.
+You will work on challenging problems and help build products used by millions.
+
+REQUIREMENTS
+- 4+ years of professional experience as a Senior Frontend Engineer or similar role
+- Strong proficiency in: JavaScript, TypeScript, React, CSS, Git
+- Experience with: Next.js, GraphQL, Testing, Node.js
+- Excellent communication and teamwork skills
+- Bachelor's degree in Computer Science or related field
+
+NICE TO HAVE
+- Experience with: Next.js, GraphQL, Testing
+- Contributions to open source projects
+- Experience in a startup or fast-paced environment
+
+WHAT WE OFFER
+- Competitive salary and equity
+- Health, dental, and vision insurance
+- Flexible work arrangements
+- Professional development budget

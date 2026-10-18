@@ -1,0 +1,33 @@
+Mei Ali
+Email: mei.ali52@gmail.com | Phone: (783) 775-4189
+
+SUMMARY
+Reporting Analyst with 6+ years of experience in software development. Skilled in Excel, Snowflake, Problem Solving, A/B Testing, Git. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+Data Analyst | Amazon | 2024 - 2025
+  - Identified $$17M cost-saving opportunity through customer segmentation analysis
+  - Built ETL pipelines consolidating data from 5 source systems
+  - Performed funnel analysis identifying conversion bottleneck improving sign-ups by 56%
+Senior Data Analyst | Bright Analytics | 2021 - 2024
+  - Developed predictive models for inventory optimization reducing waste by 80%
+  - Conducted cohort analysis improving marketing campaign ROI by 77%
+  - Built ETL pipelines consolidating data from 19 source systems
+Data Analyst | CloudBase | 2019 - 2021
+  - Built ETL pipelines consolidating data from 19 source systems
+  - Developed SQL pipelines processing 1M+ records daily
+  - Designed data models supporting self-service analytics for 9 departments
+
+EDUCATION
+Bachelor of Arts in Information Technology
+ETH Zurich | 2015 - 2018
+
+SKILLS
+Excel, Snowflake, Problem Solving, A/B Testing, Git, NumPy, Tableau, Power BI, dbt, Statistics, Data Visualization, Presentation Skills
+
+PROJECTS
+Customer Segmentation
+  - K-means clustering analysis revealing 5 distinct customer segments
+
+CERTIFICATIONS
+Certified Analytics Professional

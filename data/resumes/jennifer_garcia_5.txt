@@ -1,0 +1,37 @@
+Jennifer Garcia
+Email: jennifer.garcia49@gmail.com | Phone: (681) 427-4269
+
+SUMMARY
+UI Engineer with 8+ years of experience in software development. Skilled in Git, Sass, Figma, JavaScript, CSS. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+Web Developer | Intel | 2023 - 2025
+  - Built responsive web application serving 12K+ daily active users
+  - Redesigned core user flow increasing conversion by 80%
+  - Led migration from jQuery to React modernizing codebase
+UI Engineer | Amazon | 2021 - 2023
+  - Led migration from jQuery to React modernizing codebase
+  - Built responsive web application serving 3K+ daily active users
+  - Optimized bundle size improving page load time by 55%
+UI Engineer | DataPulse | 2020 - 2021
+  - Built real-time collaborative features using WebSockets
+  - Led migration from jQuery to React modernizing codebase
+  - Implemented accessibility improvements achieving WCAG 2.1 AA compliance
+React Developer | Snowflake | 2017 - 2020
+  - Developed design system components used across 18 product teams
+  - Built real-time collaborative features using WebSockets
+  - Led migration from jQuery to React modernizing codebase
+
+EDUCATION
+Master of Engineering in Electrical Engineering
+TU Munich | 2011 - 2015
+
+SKILLS
+Git, Sass, Figma, JavaScript, CSS, Next.js, REST APIs, Webpack, React, GraphQL, Angular, HTML, Performance Optimization
+
+PROJECTS
+Component Library
+  - Open-source React component library with 30+ reusable components
+
+CERTIFICATIONS
+Meta Front-End Developer Certificate

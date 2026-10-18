@@ -1,0 +1,25 @@
+Ahmed Silva
+Email: ahmed.silva44@gmail.com | Phone: (716) 861-3827
+
+SUMMARY
+Business Intelligence Analyst with 1+ years of experience in software development. Skilled in Presentation Skills, A/B Testing, Business Acumen, Problem Solving, BigQuery. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+Reporting Analyst | AI Solutions Ltd | 2024 - 2025
+  - Conducted cohort analysis improving marketing campaign ROI by 25%
+  - Developed predictive models for inventory optimization reducing waste by 33%
+  - Identified $$12M cost-saving opportunity through customer segmentation analysis
+
+EDUCATION
+Bachelor of Arts in Computer Science
+TU Munich | 2018 - 2022
+
+SKILLS
+Presentation Skills, A/B Testing, Business Acumen, Problem Solving, BigQuery, Data Visualization, Airflow, Git, R, Statistics, Excel
+
+PROJECTS
+Automated Reporting
+  - Python-based reporting automation saving 10+ hours weekly
+
+CERTIFICATIONS
+Google Data Analytics Certificate

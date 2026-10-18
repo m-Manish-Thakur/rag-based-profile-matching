@@ -1,0 +1,33 @@
+Arjun Novak
+Email: arjun.novak84@protonmail.com | Phone: (688) 866-4267
+
+SUMMARY
+Data Scientist with 5+ years of experience in software development. Skilled in PyTorch, Git, R, SQL, Leadership. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+Research Data Scientist | Stripe | 2022 - 2025
+  - Developed NLP pipeline for automated ticket classification with 78% accuracy
+  - Conducted deep-dive analysis on customer segments identifying $$5M in opportunities
+  - Collaborated with engineering to deploy ML models serving 15K predictions/day
+Data Scientist | TechCorp | 2021 - 2022
+  - Designed A/B testing framework for product decisions across 6 teams
+  - Collaborated with engineering to deploy ML models serving 11K predictions/day
+  - Conducted deep-dive analysis on customer segments identifying $$19M in opportunities
+Research Data Scientist | Bright Analytics | 2020 - 2021
+  - Built time-series forecasting models for demand planning with 66% accuracy
+  - Performed statistical analysis supporting $4M+ strategic decisions
+  - Developed NLP pipeline for automated ticket classification with 76% accuracy
+
+EDUCATION
+Bachelor of Science in Information Technology
+Purdue University | 2015 - 2019
+
+SKILLS
+PyTorch, Git, R, SQL, Leadership, Airflow, scikit-learn, Hadoop, Problem Solving, Pandas, Data Visualization, A/B Testing, Tableau
+
+PROJECTS
+Stock Price Forecasting
+  - Time-series model using LSTM for stock price prediction
+
+CERTIFICATIONS
+Google Data Analytics Certificate

@@ -1,0 +1,33 @@
+Hans Johansson
+Email: hans.johansson27@outlook.com | Phone: (821) 347-6121
+
+SUMMARY
+Senior DevOps Engineer with 6+ years of experience in software development. Skilled in Git, Kubernetes, Linux, ArgoCD, Microservices. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+Site Reliability Engineer | StartupXYZ | 2023 - 2025
+  - Built automated disaster recovery reducing RTO by 74%
+  - Reduced mean time to recovery (MTTR) from hours to 54 minutes
+  - Implemented centralized logging and monitoring reducing incident detection time by 17%
+Cloud Infrastructure Engineer | DataPulse | 2022 - 2023
+  - Implemented centralized logging and monitoring reducing incident detection time by 60%
+  - Built automated disaster recovery reducing RTO by 21%
+  - Managed cloud spending optimization saving $$10K annually
+Cloud Infrastructure Engineer | IBM | 2019 - 2022
+  - Managed cloud spending optimization saving $$14K annually
+  - Managed Kubernetes clusters with 9+ microservices across 9 environments
+  - Implemented Infrastructure as Code using Terraform managing 13+ cloud resources
+
+EDUCATION
+Master of Science in Mathematics
+UC Berkeley | 2016 - 2019
+
+SKILLS
+Git, Kubernetes, Linux, ArgoCD, Microservices, Docker, Bash, Terraform, Prometheus, Agile, Ansible, Networking, Problem Solving
+
+PROJECTS
+Kubernetes Operators
+  - Custom operators for managing stateful applications
+
+CERTIFICATIONS
+Azure DevOps Engineer Expert

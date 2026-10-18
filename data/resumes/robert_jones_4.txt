@@ -1,0 +1,49 @@
+Robert Jones
+Email: robert.jones52@gmail.com | Phone: (783) 452-1651
+
+SUMMARY
+Business Intelligence Analyst with 12+ years of experience in software development. Skilled in Data Modeling, Excel, Looker, Presentation Skills, Problem Solving. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+Data Analyst | CodeCraft | 2024 - 2025
+  - Developed predictive models for inventory optimization reducing waste by 42%
+  - Developed SQL pipelines processing 17M+ records daily
+  - Created metric definitions and data governance framework
+Senior Data Analyst | CloudBase | 2023 - 2024
+  - Conducted cohort analysis improving marketing campaign ROI by 53%
+  - Identified $$20M cost-saving opportunity through customer segmentation analysis
+  - Performed funnel analysis identifying conversion bottleneck improving sign-ups by 53%
+Senior Data Analyst | Intel | 2022 - 2023
+  - Developed SQL pipelines processing 9M+ records daily
+  - Developed predictive models for inventory optimization reducing waste by 41%
+  - Identified $$11M cost-saving opportunity through customer segmentation analysis
+Reporting Analyst | CloudNine Systems | 2019 - 2022
+  - Conducted cohort analysis improving marketing campaign ROI by 50%
+  - Built executive dashboards in Tableau/Power BI used by 2+ stakeholders
+  - Developed SQL pipelines processing 11M+ records daily
+Senior Data Analyst | DevBridge | 2016 - 2019
+  - Created metric definitions and data governance framework
+  - Designed data models supporting self-service analytics for 5 departments
+  - Built executive dashboards in Tableau/Power BI used by 12+ stakeholders
+Senior Data Analyst | Amazon | 2014 - 2016
+  - Conducted cohort analysis improving marketing campaign ROI by 41%
+  - Built ETL pipelines consolidating data from 8 source systems
+  - Built executive dashboards in Tableau/Power BI used by 12+ stakeholders
+Senior Data Analyst | Lyft | 2013 - 2014
+  - Identified $$6M cost-saving opportunity through customer segmentation analysis
+  - Designed data models supporting self-service analytics for 14 departments
+  - Built executive dashboards in Tableau/Power BI used by 9+ stakeholders
+
+EDUCATION
+Master of Science in Information Technology
+Columbia University | 2009 - 2012
+
+SKILLS
+Data Modeling, Excel, Looker, Presentation Skills, Problem Solving, ETL, NumPy, Statistics, BigQuery
+
+PROJECTS
+Automated Reporting
+  - Python-based reporting automation saving 10+ hours weekly
+
+CERTIFICATIONS
+Certified Analytics Professional

@@ -1,0 +1,24 @@
+JOB TITLE: Machine Learning Engineer
+COMPANY: Palantir
+
+ABOUT THE ROLE
+We are looking for a talented Machine Learning Engineer to join our growing team at Palantir.
+You will work on challenging problems and help build products used by millions.
+
+REQUIREMENTS
+- 3+ years of professional experience as a Machine Learning Engineer or similar role
+- Strong proficiency in: Python, Machine Learning, TensorFlow, PyTorch, Docker
+- Experience with: NLP, MLOps, Kubernetes, AWS
+- Excellent communication and teamwork skills
+- Bachelor's degree in Computer Science or related field
+
+NICE TO HAVE
+- Experience with: NLP, MLOps, Kubernetes
+- Contributions to open source projects
+- Experience in a startup or fast-paced environment
+
+WHAT WE OFFER
+- Competitive salary and equity
+- Health, dental, and vision insurance
+- Flexible work arrangements
+- Professional development budget

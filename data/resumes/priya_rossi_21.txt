@@ -1,0 +1,37 @@
+Priya Rossi
+Email: priya.rossi14@yahoo.com | Phone: (646) 803-7560
+
+SUMMARY
+Senior DevOps Engineer with 10+ years of experience in software development. Skilled in Git, Python, Team Leadership, Bash, Terraform. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+DevOps Engineer | Uber | 2023 - 2025
+  - Implemented security scanning in CI/CD pipeline catching 20+ vulnerabilities
+  - Built automated disaster recovery reducing RTO by 37%
+  - Reduced mean time to recovery (MTTR) from hours to 74 minutes
+Platform Engineer | StartupXYZ | 2019 - 2023
+  - Designed multi-region deployment achieving 75.9% uptime SLA
+  - Reduced mean time to recovery (MTTR) from hours to 53 minutes
+  - Implemented centralized logging and monitoring reducing incident detection time by 22%
+Platform Engineer | Apple | 2016 - 2019
+  - Implemented security scanning in CI/CD pipeline catching 2+ vulnerabilities
+  - Implemented centralized logging and monitoring reducing incident detection time by 51%
+  - Managed cloud spending optimization saving $$3K annually
+Cloud Infrastructure Engineer | Amazon | 2015 - 2016
+  - Implemented centralized logging and monitoring reducing incident detection time by 75%
+  - Built automated disaster recovery reducing RTO by 34%
+  - Designed multi-region deployment achieving 72.9% uptime SLA
+
+EDUCATION
+Bachelor of Science in Data Science
+University of Waterloo | 2010 - 2013
+
+SKILLS
+Git, Python, Team Leadership, Bash, Terraform, Problem Solving, Jenkins, GCP, ArgoCD
+
+PROJECTS
+CI/CD Pipeline Templates
+  - Reusable GitHub Actions and Jenkins pipeline templates
+
+CERTIFICATIONS
+HashiCorp Terraform Associate

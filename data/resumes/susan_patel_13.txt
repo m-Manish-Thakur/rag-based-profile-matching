@@ -1,0 +1,29 @@
+Susan Patel
+Email: susan.patel45@outlook.com | Phone: (765) 981-9903
+
+SUMMARY
+Data Scientist with 7+ years of experience in software development. Skilled in NLP, NumPy, Azure, scikit-learn, Airflow. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+Data Scientist | ScaleOps | 2021 - 2025
+  - Collaborated with engineering to deploy ML models serving 14K predictions/day
+  - Built predictive models improving customer churn prediction accuracy by 75%
+  - Designed A/B testing framework for product decisions across 9 teams
+Applied Data Scientist | Netflix | 2018 - 2021
+  - Developed NLP pipeline for automated ticket classification with 77% accuracy
+  - Performed statistical analysis supporting $18M+ strategic decisions
+  - Built time-series forecasting models for demand planning with 23% accuracy
+
+EDUCATION
+Master of Science in Information Technology
+Duke University | 2015 - 2018
+
+SKILLS
+NLP, NumPy, Azure, scikit-learn, Airflow, Statistics, Communication, Data Visualization, R, Docker, Power BI, AWS, Leadership, Hadoop, Spark
+
+PROJECTS
+Automated Report Generator
+  - NLP-powered tool generating business insights from raw data
+
+CERTIFICATIONS
+TensorFlow Developer Certificate

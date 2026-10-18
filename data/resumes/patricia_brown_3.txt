@@ -1,0 +1,41 @@
+Patricia Brown
+Email: patricia.brown30@gmail.com | Phone: (232) 538-2160
+
+SUMMARY
+Cloud Infrastructure Engineer with 10+ years of experience in software development. Skilled in Ansible, Communication, Grafana, CI/CD, Microservices. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+Cloud Infrastructure Engineer | Meta | 2021 - 2025
+  - Implemented Infrastructure as Code using Terraform managing 11+ cloud resources
+  - Managed Kubernetes clusters with 8+ microservices across 8 environments
+  - Automated server provisioning reducing setup time from days to minutes
+Cloud Infrastructure Engineer | Snowflake | 2019 - 2021
+  - Implemented security scanning in CI/CD pipeline catching 3+ vulnerabilities
+  - Implemented centralized logging and monitoring reducing incident detection time by 27%
+  - Built automated disaster recovery reducing RTO by 16%
+Senior DevOps Engineer | Lyft | 2018 - 2019
+  - Automated server provisioning reducing setup time from days to minutes
+  - Implemented centralized logging and monitoring reducing incident detection time by 36%
+  - Managed cloud spending optimization saving $$13K annually
+Site Reliability Engineer | CodeCraft | 2016 - 2018
+  - Implemented security scanning in CI/CD pipeline catching 5+ vulnerabilities
+  - Automated server provisioning reducing setup time from days to minutes
+  - Implemented centralized logging and monitoring reducing incident detection time by 22%
+DevOps Engineer | Meta | 2015 - 2016
+  - Built self-service deployment platform used by 2 engineering teams
+  - Implemented centralized logging and monitoring reducing incident detection time by 38%
+  - Reduced mean time to recovery (MTTR) from hours to 23 minutes
+
+EDUCATION
+Master of Engineering in Software Engineering
+University of Illinois | 2012 - 2015
+
+SKILLS
+Ansible, Communication, Grafana, CI/CD, Microservices, Kubernetes, Networking, Security, Team Leadership, Terraform, CloudFormation
+
+PROJECTS
+Kubernetes Operators
+  - Custom operators for managing stateful applications
+
+CERTIFICATIONS
+HashiCorp Terraform Associate

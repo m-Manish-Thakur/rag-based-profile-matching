@@ -1,0 +1,37 @@
+Mary Johnson
+Email: mary.johnson14@gmail.com | Phone: (589) 299-6881
+
+SUMMARY
+Senior Data Scientist with 6+ years of experience in software development. Skilled in Leadership, R, Communication, Tableau, Hadoop. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+Applied Data Scientist | NVIDIA | 2024 - 2025
+  - Collaborated with engineering to deploy ML models serving 12K predictions/day
+  - Developed NLP pipeline for automated ticket classification with 49% accuracy
+  - Designed A/B testing framework for product decisions across 3 teams
+Senior Data Scientist | CodeCraft | 2022 - 2024
+  - Built time-series forecasting models for demand planning with 22% accuracy
+  - Conducted deep-dive analysis on customer segments identifying $$8M in opportunities
+  - Created automated reporting dashboards reducing manual reporting by 66%
+Data Scientist | Palantir | 2020 - 2022
+  - Developed feature engineering pipeline reducing model training time by 65%
+  - Developed NLP pipeline for automated ticket classification with 33% accuracy
+  - Created automated reporting dashboards reducing manual reporting by 32%
+Research Data Scientist | Intel | 2019 - 2020
+  - Developed feature engineering pipeline reducing model training time by 43%
+  - Built time-series forecasting models for demand planning with 80% accuracy
+  - Performed statistical analysis supporting $16M+ strategic decisions
+
+EDUCATION
+Bachelor of Science in Data Science
+Stanford University | 2014 - 2017
+
+SKILLS
+Leadership, R, Communication, Tableau, Hadoop, Machine Learning, Statistics, SQL, Azure, PyTorch, Computer Vision, NumPy
+
+PROJECTS
+Stock Price Forecasting
+  - Time-series model using LSTM for stock price prediction
+
+CERTIFICATIONS
+Google Data Analytics Certificate

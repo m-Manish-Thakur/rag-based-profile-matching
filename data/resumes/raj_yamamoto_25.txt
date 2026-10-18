@@ -1,0 +1,45 @@
+Raj Yamamoto
+Email: raj.yamamoto5@yahoo.com | Phone: (492) 565-1783
+
+SUMMARY
+Research Data Scientist with 15+ years of experience in software development. Skilled in TensorFlow, Machine Learning, Computer Vision, Data Visualization, Statistics. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+Research Data Scientist | IBM | 2023 - 2025
+  - Developed NLP pipeline for automated ticket classification with 52% accuracy
+  - Developed recommendation system increasing user engagement by 72%
+  - Performed statistical analysis supporting $20M+ strategic decisions
+Applied Data Scientist | DataFlow Inc | 2021 - 2023
+  - Collaborated with engineering to deploy ML models serving 20K predictions/day
+  - Built predictive models improving customer churn prediction accuracy by 22%
+  - Developed NLP pipeline for automated ticket classification with 66% accuracy
+Research Data Scientist | Lyft | 2018 - 2021
+  - Built predictive models improving customer churn prediction accuracy by 31%
+  - Designed A/B testing framework for product decisions across 3 teams
+  - Collaborated with engineering to deploy ML models serving 12K predictions/day
+Research Data Scientist | Amazon | 2014 - 2018
+  - Developed feature engineering pipeline reducing model training time by 62%
+  - Designed A/B testing framework for product decisions across 15 teams
+  - Collaborated with engineering to deploy ML models serving 19K predictions/day
+Applied Data Scientist | StartupXYZ | 2011 - 2014
+  - Conducted deep-dive analysis on customer segments identifying $$1M in opportunities
+  - Created automated reporting dashboards reducing manual reporting by 64%
+  - Developed recommendation system increasing user engagement by 30%
+Lead Data Scientist | DevBridge | 2010 - 2011
+  - Created automated reporting dashboards reducing manual reporting by 30%
+  - Conducted deep-dive analysis on customer segments identifying $$5M in opportunities
+  - Collaborated with engineering to deploy ML models serving 15K predictions/day
+
+EDUCATION
+Bachelor of Arts in Statistics
+Carnegie Mellon University | 2004 - 2008
+
+SKILLS
+TensorFlow, Machine Learning, Computer Vision, Data Visualization, Statistics, Tableau, Azure, NLP, Pandas, Power BI, Hadoop, Problem Solving, AWS
+
+PROJECTS
+Customer Churn Predictor
+  - ML model predicting customer churn with 92% accuracy using XGBoost
+
+CERTIFICATIONS
+Microsoft Certified: Data Scientist

@@ -1,0 +1,29 @@
+Sarah Nakamura
+Email: sarah.nakamura28@protonmail.com | Phone: (655) 441-6942
+
+SUMMARY
+Frontend Engineer with 2+ years of experience in software development. Skilled in Performance Optimization, Communication, Node.js, TypeScript, Next.js. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+Web Developer | Palantir | 2024 - 2025
+  - Optimized bundle size improving page load time by 15%
+  - Implemented accessibility improvements achieving WCAG 2.1 AA compliance
+  - Implemented component library reducing UI development time by 47%
+Frontend Engineer | Microsoft | 2023 - 2024
+  - Implemented component library reducing UI development time by 56%
+  - Built responsive web application serving 1K+ daily active users
+  - Implemented accessibility improvements achieving WCAG 2.1 AA compliance
+
+EDUCATION
+Bachelor of Science in Data Science
+Stanford University | 2019 - 2022
+
+SKILLS
+Performance Optimization, Communication, Node.js, TypeScript, Next.js, Webpack, CSS, Vue.js, Testing, Figma, REST APIs, Accessibility, Tailwind CSS
+
+PROJECTS
+Portfolio Website
+  - Animation-rich portfolio built with React and Framer Motion
+
+CERTIFICATIONS
+Meta Front-End Developer Certificate

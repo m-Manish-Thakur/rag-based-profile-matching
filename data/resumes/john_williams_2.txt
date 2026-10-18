@@ -1,0 +1,41 @@
+John Williams
+Email: john.williams15@yahoo.com | Phone: (842) 363-7916
+
+SUMMARY
+Senior ML Engineer with 12+ years of experience in software development. Skilled in GCP, Agile, Model Deployment, REST APIs, Pandas. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+Machine Learning Engineer | Intel | 2021 - 2025
+  - Implemented feature store used by 10 ML teams across the organization
+  - Developed computer vision model achieving 40% accuracy on production data
+  - Built MLOps pipeline for automated model retraining and monitoring
+Deep Learning Engineer | ScaleOps | 2019 - 2021
+  - Designed and deployed ML models serving 1K+ predictions/second
+  - Created model monitoring system detecting data drift reducing incidents by 54%
+  - Developed distributed training pipeline reducing training time by 8x
+Deep Learning Engineer | Netflix | 2017 - 2019
+  - Built MLOps pipeline for automated model retraining and monitoring
+  - Developed distributed training pipeline reducing training time by 5x
+  - Built automated hyperparameter tuning saving 18 hours per model
+Deep Learning Engineer | Quantum Labs | 2014 - 2017
+  - Implemented real-time inference API reducing latency from 10ms to 66ms
+  - Implemented feature store used by 12 ML teams across the organization
+  - Built automated hyperparameter tuning saving 17 hours per model
+Senior ML Engineer | Salesforce | 2013 - 2014
+  - Built MLOps pipeline for automated model retraining and monitoring
+  - Created model monitoring system detecting data drift reducing incidents by 43%
+  - Designed and deployed ML models serving 1K+ predictions/second
+
+EDUCATION
+Bachelor of Arts in Software Engineering
+University of Oxford | 2009 - 2012
+
+SKILLS
+GCP, Agile, Model Deployment, REST APIs, Pandas, MLOps, NumPy, Python, TensorFlow
+
+PROJECTS
+Anomaly Detection System
+  - Real-time anomaly detection for IoT sensor data using autoencoders
+
+CERTIFICATIONS
+TensorFlow Developer Certificate

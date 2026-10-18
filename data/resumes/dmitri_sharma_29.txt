@@ -1,0 +1,29 @@
+Dmitri Sharma
+Email: dmitri.sharma75@protonmail.com | Phone: (374) 736-7229
+
+SUMMARY
+Web Developer with 3+ years of experience in software development. Skilled in TypeScript, GraphQL, Vue.js, CSS, JavaScript. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+Web Developer | StartupXYZ | 2024 - 2025
+  - Built animation-rich landing page increasing engagement by 37%
+  - Implemented comprehensive testing strategy reducing UI bugs by 58%
+  - Led migration from jQuery to React modernizing codebase
+Web Developer | ByteForge | 2022 - 2024
+  - Optimized bundle size improving page load time by 53%
+  - Developed design system components used across 8 product teams
+  - Built real-time collaborative features using WebSockets
+
+EDUCATION
+Master of Science in Computer Engineering
+University of Texas at Austin | 2016 - 2020
+
+SKILLS
+TypeScript, GraphQL, Vue.js, CSS, JavaScript, Testing, REST APIs, Tailwind CSS, Angular, Communication, Node.js
+
+PROJECTS
+Component Library
+  - Open-source React component library with 30+ reusable components
+
+CERTIFICATIONS
+Meta Front-End Developer Certificate

@@ -1,0 +1,33 @@
+Elizabeth Martinez
+Email: elizabeth.martinez46@outlook.com | Phone: (548) 486-5526
+
+SUMMARY
+DevOps Engineer with 10+ years of experience in software development. Skilled in ArgoCD, CI/CD, GCP, Terraform, Monitoring. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+Senior DevOps Engineer | Bright Analytics | 2022 - 2025
+  - Built automated disaster recovery reducing RTO by 59%
+  - Implemented security scanning in CI/CD pipeline catching 14+ vulnerabilities
+  - Designed multi-region deployment achieving 73.9% uptime SLA
+Site Reliability Engineer | Intel | 2019 - 2022
+  - Built automated disaster recovery reducing RTO by 30%
+  - Implemented Infrastructure as Code using Terraform managing 18+ cloud resources
+  - Built self-service deployment platform used by 7 engineering teams
+Site Reliability Engineer | ScaleOps | 2015 - 2019
+  - Built self-service deployment platform used by 7 engineering teams
+  - Implemented security scanning in CI/CD pipeline catching 8+ vulnerabilities
+  - Implemented Infrastructure as Code using Terraform managing 6+ cloud resources
+
+EDUCATION
+Master of Engineering in Computer Engineering
+University of Oxford | 2010 - 2013
+
+SKILLS
+ArgoCD, CI/CD, GCP, Terraform, Monitoring, Grafana, Microservices, Problem Solving
+
+PROJECTS
+Kubernetes Operators
+  - Custom operators for managing stateful applications
+
+CERTIFICATIONS
+AWS Certified DevOps Engineer

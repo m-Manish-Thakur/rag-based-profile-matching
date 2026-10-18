@@ -1,0 +1,33 @@
+Kwame Diallo
+Email: kwame.diallo96@yahoo.com | Phone: (792) 274-1742
+
+SUMMARY
+DevOps Engineer with 7+ years of experience in software development. Skilled in Problem Solving, GCP, Microservices, Azure, CloudFormation. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+Site Reliability Engineer | Shopify | 2023 - 2025
+  - Reduced mean time to recovery (MTTR) from hours to 31 minutes
+  - Managed cloud spending optimization saving $$8K annually
+  - Automated server provisioning reducing setup time from days to minutes
+Platform Engineer | Quantum Labs | 2019 - 2023
+  - Managed cloud spending optimization saving $$8K annually
+  - Automated server provisioning reducing setup time from days to minutes
+  - Built automated disaster recovery reducing RTO by 39%
+DevOps Engineer | NextGen Software | 2018 - 2019
+  - Built self-service deployment platform used by 7 engineering teams
+  - Managed Kubernetes clusters with 4+ microservices across 4 environments
+  - Built automated disaster recovery reducing RTO by 21%
+
+EDUCATION
+Master of Engineering in Computer Engineering
+Texas A&M | 2014 - 2017
+
+SKILLS
+Problem Solving, GCP, Microservices, Azure, CloudFormation, Grafana, Helm, Python, Monitoring, Jenkins, Kubernetes, Git, Bash
+
+PROJECTS
+Kubernetes Operators
+  - Custom operators for managing stateful applications
+
+CERTIFICATIONS
+Azure DevOps Engineer Expert

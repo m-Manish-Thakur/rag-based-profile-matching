@@ -1,0 +1,37 @@
+Carlos Ivanov
+Email: carlos.ivanov95@protonmail.com | Phone: (738) 316-2041
+
+SUMMARY
+Software Engineer with 8+ years of experience in software development. Skilled in Scrum, Docker, Redis, Angular, TypeScript. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+Backend Software Engineer | Uber | 2024 - 2025
+  - Refactored legacy monolith into microservices reducing latency by 56%
+  - Built CI/CD pipeline reducing deployment time from hours to minutes
+  - Developed real-time data processing pipeline handling 15M events/day
+Software Engineer | Shopify | 2020 - 2024
+  - Built internal developer tools saving team 15 hours/week
+  - Led migration from on-premises servers to AWS reducing infrastructure costs by 58%
+  - Implemented comprehensive test suite increasing code coverage from 66% to 95%
+Lead Software Engineer | Stripe | 2018 - 2020
+  - Mentored 9 junior developers through code reviews and pairing sessions
+  - Implemented comprehensive test suite increasing code coverage from 75% to 95%
+  - Designed and shipped customer-facing features used by 3K+ users
+Software Engineer | Quantum Labs | 2017 - 2018
+  - Refactored legacy monolith into microservices reducing latency by 22%
+  - Mentored 19 junior developers through code reviews and pairing sessions
+  - Built CI/CD pipeline reducing deployment time from hours to minutes
+
+EDUCATION
+Master of Engineering in Software Engineering
+Purdue University | 2012 - 2016
+
+SKILLS
+Scrum, Docker, Redis, Angular, TypeScript, Microservices, Team Leadership, PostgreSQL, Java, Go, REST APIs, C++, Git, Python, CI/CD
+
+PROJECTS
+Task Management API
+  - RESTful API with authentication, rate limiting, and comprehensive documentation
+
+CERTIFICATIONS
+Certified Kubernetes Administrator

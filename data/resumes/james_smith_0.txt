@@ -1,0 +1,25 @@
+James Smith
+Email: james.smith82@gmail.com | Phone: (225) 959-5506
+
+SUMMARY
+Lead Software Engineer with 4+ years of experience in software development. Skilled in React, Agile, TypeScript, C++, Express.js. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+Senior Software Engineer | DevBridge | 2021 - 2025
+  - Designed and shipped customer-facing features used by 6K+ users
+  - Developed real-time data processing pipeline handling 11M events/day
+  - Designed and implemented RESTful APIs serving 5K+ daily active users
+
+EDUCATION
+Master of Science in Computer Science
+Caltech | 2015 - 2019
+
+SKILLS
+React, Agile, TypeScript, C++, Express.js, JavaScript, Angular, CI/CD, Java, Python, Problem Solving
+
+PROJECTS
+Personal Portfolio
+  - Modern portfolio site built with Next.js and deployed on Vercel
+
+CERTIFICATIONS
+Oracle Certified Professional

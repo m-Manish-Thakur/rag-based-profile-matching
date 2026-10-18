@@ -1,0 +1,37 @@
+Olga Ali
+Email: olga.ali3@outlook.com | Phone: (420) 353-9991
+
+SUMMARY
+Full Stack Developer with 12+ years of experience in software development. Skilled in TypeScript, Scrum, REST APIs, PostgreSQL, Problem Solving. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+Software Developer | DataFlow Inc | 2024 - 2025
+  - Led migration from on-premises servers to AWS reducing infrastructure costs by 61%
+  - Implemented comprehensive test suite increasing code coverage from 79% to 95%
+  - Built CI/CD pipeline reducing deployment time from hours to minutes
+Full Stack Developer | Amazon | 2020 - 2024
+  - Implemented comprehensive test suite increasing code coverage from 60% to 95%
+  - Mentored 3 junior developers through code reviews and pairing sessions
+  - Developed real-time data processing pipeline handling 8M events/day
+Senior Software Engineer | Amazon | 2017 - 2020
+  - Mentored 6 junior developers through code reviews and pairing sessions
+  - Built internal developer tools saving team 16 hours/week
+  - Designed and shipped customer-facing features used by 5K+ users
+Software Engineer | IBM | 2013 - 2017
+  - Led migration from on-premises servers to AWS reducing infrastructure costs by 55%
+  - Designed and implemented RESTful APIs serving 10K+ daily active users
+  - Designed and shipped customer-facing features used by 13K+ users
+
+EDUCATION
+Bachelor of Science in Data Science
+University of Oxford | 2007 - 2011
+
+SKILLS
+TypeScript, Scrum, REST APIs, PostgreSQL, Problem Solving, Team Leadership, Java, Agile, CI/CD, Microservices, JavaScript, C++, Angular, Vue.js
+
+PROJECTS
+E-Commerce Platform
+  - Full-stack e-commerce platform with payment processing and inventory management
+
+CERTIFICATIONS
+Google Cloud Professional Developer

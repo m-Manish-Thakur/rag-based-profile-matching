@@ -1,0 +1,29 @@
+Sofia Costa
+Email: sofia.costa41@protonmail.com | Phone: (557) 773-5480
+
+SUMMARY
+Lead Software Engineer with 5+ years of experience in software development. Skilled in Angular, C++, Express.js, AWS, Agile. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+Senior Software Engineer | Databricks | 2021 - 2025
+  - Built internal developer tools saving team 5 hours/week
+  - Developed real-time data processing pipeline handling 20M events/day
+  - Designed and shipped customer-facing features used by 8K+ users
+Lead Software Engineer | Salesforce | 2020 - 2021
+  - Designed and implemented RESTful APIs serving 11K+ daily active users
+  - Refactored legacy monolith into microservices reducing latency by 32%
+  - Implemented comprehensive test suite increasing code coverage from 35% to 95%
+
+EDUCATION
+Bachelor of Arts in Electrical Engineering
+Seoul National University | 2016 - 2020
+
+SKILLS
+Angular, C++, Express.js, AWS, Agile, Docker, React, REST APIs, Java
+
+PROJECTS
+Task Management API
+  - RESTful API with authentication, rate limiting, and comprehensive documentation
+
+CERTIFICATIONS
+Google Cloud Professional Developer

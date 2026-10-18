@@ -1,0 +1,37 @@
+Elena Berg
+Email: elena.berg32@gmail.com | Phone: (467) 592-4858
+
+SUMMARY
+ML Platform Engineer with 8+ years of experience in software development. Skilled in Kubernetes, Docker, Git, Communication, Python. Passionate about building scalable, high-quality systems.
+
+EXPERIENCE
+Deep Learning Engineer | Salesforce | 2022 - 2025
+  - Implemented real-time inference API reducing latency from 5ms to 73ms
+  - Developed computer vision model achieving 62% accuracy on production data
+  - Developed distributed training pipeline reducing training time by 14x
+Senior ML Engineer | Netflix | 2020 - 2022
+  - Implemented feature store used by 3 ML teams across the organization
+  - Developed distributed training pipeline reducing training time by 2x
+  - Created model monitoring system detecting data drift reducing incidents by 34%
+ML Platform Engineer | ScaleOps | 2019 - 2020
+  - Developed distributed training pipeline reducing training time by 19x
+  - Built MLOps pipeline for automated model retraining and monitoring
+  - Implemented real-time inference API reducing latency from 15ms to 22ms
+Senior ML Engineer | DataPulse | 2017 - 2019
+  - Optimized model architecture reducing inference cost by 74%
+  - Developed distributed training pipeline reducing training time by 10x
+  - Designed and deployed ML models serving 13K+ predictions/second
+
+EDUCATION
+Master of Science in Mathematics
+Purdue University | 2012 - 2015
+
+SKILLS
+Kubernetes, Docker, Git, Communication, Python, MLOps, AWS, Computer Vision, Machine Learning, TensorFlow, REST APIs, PyTorch
+
+PROJECTS
+Image Classification API
+  - Production-ready image classification API using PyTorch and FastAPI
+
+CERTIFICATIONS
+Google Professional Machine Learning Engineer
